@@ -1,0 +1,16 @@
+ROBERT : I am a new student .
+My name 's Robert .
+SOPHIE : Nice to meet you .
+My name 's Sophie .
+ROBERT : Are you French ?
+SOPHIE : Yes , I am .
+SOPHIE : Are you French too ?
+ROBERT : No , I am not .
+SOPHIE : What nationality are you ?
+ROBERT : I 'm Italian .
+ROBERT : Are you a teacher ?
+SOPHIE : No , I 'm not .
+ROBERT : What 's your job ?
+SOPHIE : I 'm a keyboard operator .
+SOPHIE : What 's your job ?
+ROBERT : I 'm an engineer .

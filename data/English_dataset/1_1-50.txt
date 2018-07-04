@@ -1,0 +1,19 @@
+LADY : I want some envelopes , please .
+SHOP ASSISTANT : Do you want the large size or the small size ?
+LADY : The large size , please .
+LADY : Do you have any writing paper ?
+SHOP ASSISTANT : Yes , we do .
+SHOP ASSISTANT : I do n't have any small pads .
+I only have large one .
+Do you want a pad ?
+LADY : Yes , please .
+LADY : And I want some glue .
+SHOP ASSISTANT : A bottle of glue .
+LADY : And I want a large box of chalk , too .
+SHOP ASSISTANT : I only have small boxes .
+Do you want one ?
+LADY : No , thank you .
+SHOP ASSISTANT : Is that all ?
+LADY : That 's all , thank you .
+SHOP ASSISTANT : What else do you want ?
+LADY : I want my change .

@@ -1,0 +1,16 @@
+CUSTOMER : I bought two expensive dictionaries here half and hour ago , but I forgot to take them with me .
+MANAGER : Who served you , sir ?
+CUSTOMER : The lady who is standing behind the counter .
+MANAGER : Which books did you buy ?
+CUSTOMER : The books which are on the counter .
+MANAGER : Did you serve this gentleman half an hour ago , Caroline ?
+He says he 's the man who bought these books .
+CUSTOMER : I ca n't remember .
+The man who I served was wearing a hat .
+MANAGER : Have you got a hat , sir ?
+CUSTOMER : Yes , I have .
+MANAGER : Would you put it on , please ?
+CUSTOMER : All right .
+MANAGER : Is this the man that you served , Caroline ?
+CUSTOMER : Yes .
+I recognize him now .

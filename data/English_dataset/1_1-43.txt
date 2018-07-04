@@ -1,0 +1,15 @@
+CHRISTINE : Do you like coffee , Ann ?
+ANN : Yes , I do .
+CHRISTINE : Do you want a cup ?
+ANN : Yes , please , Christine .
+CHRISTINE : Do you want any sugar ?
+ANN : Yes , please .
+CHRISTINE : Do you want any milk ?
+ANN : No , thank you .
+I do n't like milk in my coffee .
+I like black coffee .
+CHRISTINE : Do you like biscuits ?
+ANN : Yes .
+I do .
+CHRISTINE : Do you want one ?
+ANN : Yes , please .

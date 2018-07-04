@@ -1,0 +1,15 @@
+BUTCHER : Do you want any meat today , Mrs. Bird ?
+MRS.BIRD : Yes , please .
+BUTCHER : Do you want beef or lamb ?
+MRS.BIRD : Beef , please .
+BUTCHER : This lamb 's very good .
+MRS.BIRD : I like lamb , but my husband does n't .
+BUTCHER : What about some steak ?
+This is a nice piece .
+MRS.BIRD : Give me that piece , please .
+MRS.BIRD : And a pound of mince , too .
+BUTCHER : Do you want a chicken , Mrs. Bird ?
+They 're very nice .
+MRS.BIRD : No , thank you .
+MRS.BIRD : My husband likes steak , but he does n't like chicken .
+BUTCHER : To tell you the truth , Mrs. Bird , I do n't like chicken either !

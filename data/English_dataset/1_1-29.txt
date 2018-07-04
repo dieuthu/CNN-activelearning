@@ -1,0 +1,9 @@
+MAN : Give me a book please , Jane .
+WOMAN : Which book ?
+WOMAN : This one ?
+MAN : No , not that one .
+The red one .
+WOMAN : This one ?
+MAN : Yes , please .
+WOMAN : Here you are .
+MAN : Thank you .

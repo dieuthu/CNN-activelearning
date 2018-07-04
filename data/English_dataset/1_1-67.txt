@@ -1,0 +1,14 @@
+STEVEN : Hello , Helen .
+HELEN : Hi , Steven .
+STEVEN : How are you today ?
+HELEN : I 'm very well , thank you .
+And you ?
+STEVEN : I 'm fine , thanks .
+STEVEN : How is Tony ?
+HELEN : He 's fine , thanks .
+How 's Emma ?
+STEVEN : She 's very well , too , Helen .
+STEVEN : Goodbye , Helen .
+Nice to see you .
+HELEN : Nice to see you , too , Steven .
+Goodbye .

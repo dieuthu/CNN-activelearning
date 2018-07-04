@@ -1,0 +1,20 @@
+MR. BLAKE : Good morning .
+STUDENTS : Good morning , Mr. Blake .
+MR. BLAKE : This is Miss Sophie Dupont .
+Sophie is a new student .
+She is French .
+MR. BLAKE : Sophie , this is Hans .
+He is German .
+HANS : Nice to meet you .
+MR. BLAKE : And this is Naoko .
+She 's Japanese .
+NAOKO : Nice to meet you .
+MR. BLAKE : And this is Chang-woo .
+He 's Korean .
+CHANG-WOO : Nice to meet you .
+MR. BLAKE : And this is Luming .
+He is Chinese .
+LUMNG : Nice to meet you .
+MR. BLAKE : And this is Xiaohui .
+She 's Chinese , too .
+XIAOHUI : Nice to meet you .

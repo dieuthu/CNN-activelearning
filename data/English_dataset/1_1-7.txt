@@ -1,0 +1,17 @@
+HEACHER : Whose shirt is that ?
+HEACHER : Is this your shirt , Dave ?
+DAVE : No .
+Sir .
+It 's not my shirt .
+DAVE : This is my shirt .
+My shirt 's blue .
+TEACHER : Is this shirt Tim 's ?
+DAVE : Perhaps it is , sir .
+Tim 's shirt 's white .
+HEACHER : Tim !
+TIM : Yes , sir ?
+HEACHER : Is this your shirt ?
+TIM : Yes , sir .
+HEACHER : Here you are .
+Catch !
+TIM : Thank you , sir .
